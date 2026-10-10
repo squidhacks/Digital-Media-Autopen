@@ -1,0 +1,18 @@
+{
+  "name": "digital-media-autopen",
+  "version": "1.0.0",
+  "description": "Node.js workflow for filling in and signing PDF documents",
+  "private": true,
+  "scripts": {
+    "coords": "node coords.mjs",
+    "sign": "node sign.mjs",
+    "preview": "node preview.mjs",
+    "sample": "node examples/make-sample.mjs"
+  },
+  "keywords": ["pdf", "signature", "pdf-lib"],
+  "dependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^6.3.289"
+  }
+}

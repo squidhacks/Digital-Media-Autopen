@@ -1,0 +1,7 @@
+node_modules/
+
+# Your details, your documents and your per-document jobs stay local.
+config.json
+jobs/
+personal/
+*.pdf

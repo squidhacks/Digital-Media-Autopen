@@ -1,0 +1,10 @@
+{
+  "input": "sample-contract.pdf",
+  "fields": [
+    { "page": 1, "x": 110, "y": 593, "value": "{email}" },
+    { "page": 1, "x": 110, "y": 569, "value": "{phone}" },
+    { "page": 1, "x": 74,  "y": 373, "value": "{name}", "lineEnd": 194.3 },
+    { "page": 1, "x": 232, "y": 373, "value": "{name}", "style": "signature", "size": 17, "lineEnd": 389 },
+    { "page": 1, "x": 422, "y": 373, "value": "{date}", "lineEnd": 517.9 }
+  ]
+}

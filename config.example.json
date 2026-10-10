@@ -1,0 +1,9 @@
+{
+  "name": "Your Name",
+  "email": "you@example.com",
+  "phone": "+1 (555) 555-0100",
+  "signatureFont": "C:/Windows/Fonts/segoesc.ttf",
+  "textFont": null,
+  "ink": [0.06, 0.10, 0.44],
+  "dateFormat": "MM/DD/YYYY"
+}
